@@ -1,3 +1,5 @@
+# Insights into Bicycle Theft using Visualization (R)
+
 **Background:** Known for its vibrant arts scene, diverse culture, stunning skyline, and bustling neighborhoods, Toronto is a city that never sleeps. However, as with any major urban center, it faces its share of challenges. One growing concern for Torontonians is the rising number of bicycle thefts. 
 You have been invited to assist the Toronto Police Service by analyzing and visualizing data to uncover patterns in theft activity. Your findings and visual insights will provide crucial information that can help allocate resources more effectively and develop strategies to combat bike thefts, ensuring a safer city for all cyclists.
 
