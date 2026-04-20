@@ -9,5 +9,5 @@ You have been invited to assist the Toronto Police Service by analyzing and visu
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Machine learning was not applied in this project. 
+The project was done in June, 2025. Machine learning was not applied in this project. 
 This repository only contains R code. To see results, the files would have to be opened in R studio or some other compatible software.
