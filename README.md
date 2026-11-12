@@ -16,18 +16,10 @@ No preprocessing of the data was necessary given that it did not contain any pro
 #### Stolen Bikes by Quarter
 The ten-year period was truncated into quarters to evaluate how bike thefts generally evolved over the course of a year. For clarity, the four quarters spanned three-month periods, specifically January 1st - March 31st, April 1st - June 30th, July 1st - September 30th, & October 1st - December 31st.
 
-Over the first three quarters, the number of bike thefts roughly doubled; 2,890 in quarter one, 5,003 in quarter two, & 13,326 in quarter three. The fourth quarter reported the second highest number of thefts at 10,614. If these quantities were broken down to a daily basis per year, each quarter saw the following averages.
-- About three bike thefts occurred on average per day in the first quarter between 2014-2023.
-- About five bike thefts occurred on average per day in the second quarter between 2014-2023.
-- Almost 15 bike thefts occurred on average per day in the third quarter between 2014-2023.
-- Almost 12 bike thefts occurred on average per day in the fourth quarter between 2014-2023.
+Over the first three quarters, the number of bike thefts roughly doubled; 2,890 in quarter one, 5,003 in quarter two, & 13,326 in quarter three. The fourth quarter reported the second highest number of thefts at 10,614.
 
 #### Stolen Bikes by Location Type
-Location types were assessed to identify where bike thefts occur most often. Of the seven distinct location types defined, three account for more than 93% of the 31,833 reported bike thefts--Residential Structures (15,120), Commercial Areas (8,246), & Open/Public Spaces (6,424). No other location reported more than 715 thefts. The least popular area in terms of bike thefts, Group/Shared Homes, accounted for less than 0.4% of all of thefts in Toronto over these ten years.  
-If these quantities were broken down to a daily basis per year, each of these three locations types reported the following averages.
-- About two bike thefts occurred on average per day in Commercial Areas between 2014-2023.
-- Nearly two bike thefts occurred on average per day in Open/Public Spaces between 2014-2023.
-- About four bike thefts occurred on average per day from Residential Structures between 2014-2023.
+Location types were assessed to identify where bike thefts occur most often. Of the seven distinct location types defined, three account for more than 93% of the 31,833 reported bike thefts--Residential Structures (15,120), Commercial Areas (8,246), & Open/Public Spaces (6,424). No other location reported more than 715 thefts. The least popular area in terms of bike thefts, Group/Shared Homes, accounted for less than 0.4% of all of thefts in Toronto over these ten years.
 
 #### Costs of Stolen Bikes by Neighborhood
 Costs of stolen bikes across the 140 neighborhoods in Toronto were evaluated to determine where the most expensive bikes were stolen from. To get a better sense of the typical costs of these stolen bikes, the median was used.
