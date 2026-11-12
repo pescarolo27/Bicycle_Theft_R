@@ -5,7 +5,7 @@ You have been invited to assist the Toronto Police Service by analyzing and visu
 
 **The Data:** The dataset used for analyzing bike thefts is titled `Cleaned_Bicycle_Thefts_Open_Data.csv`. This dataset contains essential information regarding bicycle theft incidents in a given city including when and where they occur, the financial impact, and other spatial and temporal factors. By analyzing this data, valuable insights including patterns and trends can be obtained that can inform strategies to mitigate bike thefts and enhance urban planning.
 
-This project was done in June, 2025. As an important note, this project is coded for a R environment. Files were attached both for code based in R as well as a project write-up done in Python containing code meant for R. The R files correspond to the three main analysis sections in the Python file (e.g. "q1.R" relates to Analysis I). Running the Python notebook will produce errors in the code cells & destroy the results that are currently contained in it.
+This project was done in June, 2025. As an important note, this project is coded for a R environment. Files were attached both for code based in R as well as a project write-up done in Python containing code meant for R. The R files correspond to the three main analysis sections in the Python file (e.g. "q1.R" relates to **Analysis I**). Running the Python notebook will produce errors in the code cells & destroy the results that are currently contained in it.
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
 
